@@ -1,6 +1,6 @@
 # Effective AI Agent Patterns with LangChain
 
-A collection of proven patterns for building effective AI agents using LangChain and LangGraph. These patterns demonstrate different approaches to agent architecture, from simple tool usage to complex autonomous systems.
+A collection of proven patterns for building effective AI agents using LangChain and LangGraph. These patterns demonstrate different approaches to agent architecture, from simple tool usage to complex autonomous systems. These patterns are based on the Anthropic blog post ["Building Effective AI Agents"](https://www.anthropic.com/engineering/building-effective-agents)
 
 ## 🚀 Quick Start
 
